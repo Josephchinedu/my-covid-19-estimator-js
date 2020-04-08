@@ -13,7 +13,7 @@ const covid19ImpactEstimator = (data) => {
         totalHospitalBeds: 1380614
     };
     return{
-        data: {}, 
+        data: data, 
         impact: {}, 
         severeImpact: {},
         currentlyInfected: reportedCases * 10
